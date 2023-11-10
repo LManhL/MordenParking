@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "662179937211",
+    "project_id": "appproject-1cca4",
+    "storage_bucket": "appproject-1cca4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662179937211:android:b46e9407e1434dd88de29e",
+        "android_client_info": {
+          "package_name": "com.example.mordenparking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhF05HTWdHVKEJ17Mh5kDyccXJy0v-nyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
